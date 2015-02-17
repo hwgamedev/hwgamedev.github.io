@@ -1,0 +1,22 @@
+/* custom css */
+@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400);
+
+body{
+  background: #2B8FD9;
+  color: #fff;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.center{
+  text-align: center;
+}
+.logo{
+  margin: 0 auto;
+}
+.thumbnail {
+  background-color: #2B8FD9;
+  border: 0px;
+  margin-top: 25px;
+}
+.thumbnail .caption {
+  color: #fff;
+}
